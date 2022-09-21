@@ -3,15 +3,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=klaz3r&label=Profile%20views&color=0e75b6&style=flat" alt="klaz3r" /> </p>
 
+- 🌱 I’m currently learning **Next.js**
+
 - 👨‍💻 All of my projects are available at [http://stefan-nasturas.netlify.app](http://stefan-nasturas.netlify.app)
 
-- 📫 How to reach me **nasturassstefan@outlook.com**
+- 📫 You can reach me at **nasturassstefan@outlook.com**
 
 - ⚡ Fun fact **I Like Photography**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/stefan-nasturas-9bb019207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/stefan-nasturas-9bb019207/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/16711842" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16711842" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -22,4 +25,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=klaz3r&show_icons=true&locale=en" alt="klaz3r" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=klaz3r&" alt="klaz3r" /></p>
-
