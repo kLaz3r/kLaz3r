@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Stefan Nasturas</h1>
-<h3 align="center">I am a aspiring front end developer from Romania, I am currently working with HTML, CSS, JS, ReactJS, PHP, Next.js, MySQL, etc. Currently searching for small freelancing projects like on fiverr. I started web development as a hobby and as a challenge to myself. As I had prior experience with game servers and databases, I decided to give it a try. After countless hours of online courses and standalone projects, here I am today, with still a lot to learn.</h3>
+<h3 align="center">I am a aspiring front end developer from Romania, I am currently working with HTML, CSS, JavaScript, React, TypeScript, Next.js. Currently searching for small freelancing projects like on fiverr. I started web development as a hobby and as a challenge to myself. As I had prior experience with game servers and databases, I decided to give it a try. After countless hours of online courses and standalone projects, here I am today, with still a lot to learn.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=klaz3r&label=Profile%20views&color=0e75b6&style=flat" alt="klaz3r" /> </p>
 
