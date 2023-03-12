@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=klaz3r&label=Profile%20views&color=0e75b6&style=flat" alt="klaz3r" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=klaz3r" alt="klaz3r" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=klaz3r&theme=dracula" alt="klaz3r" /></a> </p>
 
 - 🔭 I’m currently working on **Personal Portfolio**
 
