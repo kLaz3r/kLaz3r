@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=klaz3r&label=Profile%20views&color=0e75b6&style=flat" alt="klaz3r" /> </p>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Next.js & TypeScript**
 
 - 👨‍💻 All of my projects are available at [http://stefan-nasturas.netlify.app](http://stefan-nasturas.netlify.app)
 
