@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **TypeScript & Next.js**
 
-- 👨‍💻 All of my projects are available at [stefan-nasturas.netlify.app](stefan-nasturas.netlify.app)
+- 👨‍💻 All of my projects are available at [stefannasturas.live](stefannasturas.live)
 
 - 📫 How to reach me **nasturasstefan@outlook.com**
 
